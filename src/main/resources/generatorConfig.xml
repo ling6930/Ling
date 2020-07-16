@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE generatorConfiguration PUBLIC
+        "-//mybatis.org//DTD MyBatis Generator Configuration 1.0//EN"
+        "http://mybatis.org/dtd/mybatis-generator-config_1_0.dtd" >
+<generatorConfiguration>
+    <context id="DB2Tables" targetRuntime="MyBatis3">
+        <!--数据库连接-->
+        <jdbcConnection driverClass="com.mysql.jdbc.Driver"
+                        connectionURL="jdbc:mysql://localhost:3306/kitty"
+                        userId="root"
+                        password="admin"/>
+
+        <javaTypeResolver>
+            <property name="forceBigDecimals" value="false"/>
+        </javaTypeResolver>
+
+        <!--生成Model类存放位置-->
+        <javaModelGenerator targetPackage="com.louis.ling.admin.model" targetProject="src/main/java">
+            <!--是否允许子包-->
+            <property name="enableSubPackages" value="true"/>
+            <property name="trimStrings" value="true"/>
+        </javaModelGenerator>
+
+        <!--生成映射文件存放位置-->
+        <sqlMapGenerator targetPackage="com.louis.ling.admin.sqlmap" targetProject="src/main/java">
+            <property name="enableSubPackages" value="true"/>
+        </sqlMapGenerator>
+
+        <!--生成Mapper类存放位置-->
+        <javaClientGenerator type="XMLMAPPER" targetPackage="com.louis.ling.admin.dao" targetProject="src/main/java">
+            <property name="enableSubPackages" value="true"/>
+        </javaClientGenerator>
+
+        <!--生成与表对应的类名-->
+        <table tableName="sys_dept" domainObjectName="sysDept"/>
+        <table tableName="sys_dict" domainObjectName="sysDict"/>
+        <table tableName="sys_log" domainObjectName="sysLog"/>
+        <table tableName="sys_menu" domainObjectName="sysMenu"/>
+        <table tableName="sys_role" domainObjectName="sysRole"/>
+        <table tableName="sys_role_dept" domainObjectName="sysRoleDept"/>
+        <table tableName="sys_role_menu" domainObjectName="sysRoleMenu"/>
+        <table tableName="sys_user" domainObjectName="sysUser"/>
+        <table tableName="sys_user_role" domainObjectName="sysUserRole"/>
+        <table tableName="sys_user_token" domainObjectName="sysUserToken"/>
+    </context>
+
+</generatorConfiguration>
