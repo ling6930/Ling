@@ -12,9 +12,9 @@ github|(https://github.com/ling6930/Ling)|https://github.com/ling6930/Ling-ui
 
 ### 后端
 1. 下载源码
-   git clone https://gitee.com/liuge1988/kitty.git
+   `git clone https://gitee.com/liuge1988/kitty.git`
 2. 编译代码
-  找到 pom.xml，执行 mvn clean install 命令编译一键打包。
+  找到 pom.xml，执行 `mvn clean install` 命令编译一键打包。
   一般来说不会有什么问题，如果还是编译不成功，可以按照优先级逐个编译试一试。
 3. 导入数据库
    新建数据库，导入 doc/kitty.sql 脚本，导入初始化数据库。
@@ -23,10 +23,10 @@ github|(https://github.com/ling6930/Ling)|https://github.com/ling6930/Ling-ui
 
 ### 前端
 1. 下载源码
-   git clone https://github.com/goufaning/permission-app.git
+   `git clone https://github.com/goufaning/permission-app.git`
 2. 安装node.js
-3. 进入项目根目录，执行 npm install, 下载和安装项目相关依赖包
-4. 执行 npm run dev 命令，启动项目，通过 http://localhost:8080 访问。
+3. 进入项目根目录，执行 `npm install`, 下载和安装项目相关依赖包
+4. 执行 `npm run dev` 命令，启动项目，通过 http://localhost:8080 访问。
 
 ## 功能列表
 - 系统登录：系统用户登录，系统登录认证（token方式）
