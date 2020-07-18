@@ -20,3 +20,10 @@ github|(https://github.com/ling6930/Ling)|https://github.com/ling6930/Ling-ui
    新建数据库，导入 doc/kitty.sql 脚本，导入初始化数据库。
    修改 application.yml 中的数据库连接和账号密码为自己的数据库配置。
 4. 启动项目
+
+### 前端
+1. 下载源码
+   git clone https://github.com/goufaning/permission-app.git
+2. 安装node.js
+3. 进入项目根目录，执行 npm install, 下载和安装项目相关依赖包
+4. 执行 npm run dev 命令，启动项目，通过 http://localhost:8080 访问。
