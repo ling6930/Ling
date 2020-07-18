@@ -8,3 +8,15 @@
   ---| :--:  | :--:
 github|(https://github.com/ling6930/Ling)|https://github.com/ling6930/Ling-ui
 
+## 使用教程
+
+### 后端
+1. 下载源码
+   git clone https://gitee.com/liuge1988/kitty.git
+2. 编译代码
+  找到 pom.xml，执行 mvn clean install 命令编译一键打包。
+  一般来说不会有什么问题，如果还是编译不成功，可以按照优先级逐个编译试一试。
+3. 导入数据库
+   新建数据库，导入 doc/kitty.sql 脚本，导入初始化数据库。
+   修改 application.yml 中的数据库连接和账号密码为自己的数据库配置。
+4. 启动项目
