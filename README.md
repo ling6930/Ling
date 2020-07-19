@@ -11,6 +11,7 @@ github|(https://github.com/ling6930/Ling)|https://github.com/ling6930/Ling-ui
 ## 使用教程
 
 ### 后端
+
 1. 下载源码
    `git clone https://gitee.com/liuge1988/kitty.git`
 2. 编译代码
@@ -22,6 +23,7 @@ github|(https://github.com/ling6930/Ling)|https://github.com/ling6930/Ling-ui
 4. 启动项目
 
 ### 前端
+
 1. 下载源码
    `git clone https://github.com/goufaning/permission-app.git`
 2. 安装node.js
@@ -29,6 +31,7 @@ github|(https://github.com/ling6930/Ling)|https://github.com/ling6930/Ling-ui
 4. 执行 `npm run dev` 命令，启动项目，通过 http://localhost:8080 访问。
 
 ## 功能列表
+
 - 系统登录：系统用户登录，系统登录认证（token方式）
 - 用户管理：新建用户，修改用户，删除用户，查询用户
 - 机构管理：新建机构，修改机构，删除机构，查询机构
