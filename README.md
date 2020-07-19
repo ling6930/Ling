@@ -36,3 +36,17 @@ github|(https://github.com/ling6930/Ling)|https://github.com/ling6930/Ling-ui
 - 菜单管理：新建菜单，修改菜单，删除菜单，查询菜单
 - 字典管理：新建字典，修改字典，删除字典，查询字典
 - 系统日志：记录用户操作日志，查看系统执行日志记录
+
+## 技术选型
+
+### 后端
+- Spring Boot 
+- Mybatis-Plus
+- MySQL 
+- Shiro
+- Druid
+
+### 前端
+- Vue,Vuex,Vue Router
+- Axios
+- ElementUI
