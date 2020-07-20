@@ -6,7 +6,7 @@
 
  表头|后端源码|前端源码
   ---| :--:  | :--:
-github|https://github.com/ling6930/Ling|https://github.com/ling6930/Ling-ui
+github|(https://github.com/ling6930/Ling)|https://github.com/ling6930/Ling-ui
 
 ## 使用教程
 
@@ -82,6 +82,6 @@ github|https://github.com/ling6930/Ling|https://github.com/ling6930/Ling-ui
 
 ## 鸣谢
 
-- 项目主要参考https://gitee.com/liuge1988/kitty,并推荐作者的教程https://www.cnblogs.com/xifengxiaoma/p/9533018.html
+- 项目主要参考(https://gitee.com/liuge1988/kitty),感谢并推荐作者的教程(https://www.cnblogs.com/xifengxiaoma/p/9533018.html)
 
 
