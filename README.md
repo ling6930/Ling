@@ -6,7 +6,7 @@
 
  表头|后端源码|前端源码
   ---| :--:  | :--:
-github|(https://github.com/ling6930/Ling)|https://github.com/ling6930/Ling-ui
+github|https://github.com/ling6930/Ling|https://github.com/ling6930/Ling-ui
 
 ## 使用教程
 
@@ -79,4 +79,9 @@ github|(https://github.com/ling6930/Ling)|https://github.com/ling6930/Ling-ui
 
 ### 系统日志
 ![Image text](https://github.com/ling6930/Ling-ui/blob/master/img-storage/%E7%B3%BB%E7%BB%9F%E6%97%A5%E5%BF%97.PNG)
+
+## 鸣谢
+
+- 项目主要参考https://gitee.com/liuge1988/kitty,并推荐作者的教程https://www.cnblogs.com/xifengxiaoma/p/9533018.html
+
 
