@@ -44,12 +44,18 @@ github|(https://github.com/ling6930/Ling)|https://github.com/ling6930/Ling-ui
 
 ### 后端
 - Spring Boot 
-- Mybatis-Plus
+- Mybatis-Generator
 - MySQL 
 - Shiro
 - Druid
+- Log4j
 
 ### 前端
 - Vue,Vuex,Vue Router
 - Axios
 - ElementUI
+
+## 系统展示
+
+### 登陆页面
+![Image text](https://github.com/ling6930/Ling-ui/blob/master/img-storage/%E7%99%BB%E9%99%86%E9%A1%B5%E9%9D%A2.PNG)
