@@ -59,3 +59,24 @@ github|(https://github.com/ling6930/Ling)|https://github.com/ling6930/Ling-ui
 
 ### 登陆页面
 ![Image text](https://github.com/ling6930/Ling-ui/blob/master/img-storage/%E7%99%BB%E9%99%86%E9%A1%B5%E9%9D%A2.PNG)
+
+### 用户管理
+![Image text](https://github.com/ling6930/Ling-ui/blob/master/img-storage/%E7%94%A8%E6%88%B7%E7%AE%A1%E7%90%86.PNG)
+
+### 机构管理
+![Image text](https://github.com/ling6930/Ling-ui/blob/master/img-storage/%E6%9C%BA%E6%9E%84%E7%AE%A1%E7%90%86.PNG)
+
+### 角色管理
+![Image text](https://github.com/ling6930/Ling-ui/blob/master/img-storage/%E8%A7%92%E8%89%B2%E7%AE%A1%E7%90%86.PNG)
+
+### 菜单管理
+![Image text](https://github.com/ling6930/Ling-ui/blob/master/img-storage/%E8%8F%9C%E5%8D%95%E7%AE%A1%E7%90%86.PNG)
+
+
+### 字典管理
+![Image text](https://github.com/ling6930/Ling-ui/blob/master/img-storage/%E5%AD%97%E5%85%B8%E7%AE%A1%E7%90%86.PNG)
+
+
+### 系统日志
+![Image text](https://github.com/ling6930/Ling-ui/blob/master/img-storage/%E7%B3%BB%E7%BB%9F%E6%97%A5%E5%BF%97.PNG)
+
